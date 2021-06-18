@@ -16,3 +16,5 @@ function equal () {
         document.form .textview.value = eval(exp);
     }
 }
+
+// Заміна на gh-pages
